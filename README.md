@@ -14,12 +14,9 @@
 ## Introduction
 This project implements a multi-client chat server using C++ and TCP sockets, with the C code provided as reference. The server is designed to handle multiple clients simultaneously using `threads` and the `select()` system call.
 
-
 ## Required Links
-- [Github Repository](https://github.com/adarshdhakar/cn_lab_sheet5)
+- [Github Repository](https://github.com/wanderer1500/ChatApp_Socket)
 - [Images Folder](images/)
-- [Demo Video](Demo.mp4)
-<!-- - [Download Zip File](CN_LAB_SHEET5.zip) -->
 - [Report](Report.pdf)
 
 ## File Structure
@@ -28,7 +25,7 @@ This project implements a multi-client chat server using C++ and TCP sockets, wi
 - `client.cpp` - Chat client program.
 - `README.md` - This file, containing details of the project.
 - `images/` - Screenshots of the running server and clients on separate hosts.
-- `Report.pdf` - Contains group details, explanations, and additional functionalities.
+- `Report.pdf` - Contains explanations, and additional functionalities.
 - `Demo.mp4` - Demo Video of the working of multi-client chat server.
 
 ## Compilation & Execution
@@ -36,7 +33,6 @@ The below procedure can be followed after:
 - Cloning the repository: 
   ```bash
   git clone https://github.com/wanderer1500/ChatApp_Socket
-  cd cn_lab_sheet5
   ```
 - Downloading and extracting the zip file.
 - Or just downloading the server and client files.
