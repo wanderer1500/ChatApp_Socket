@@ -1,0 +1,7 @@
+.~lock.Report.odt#
+.vscode
+server_threaded
+server_select
+client
+a.out
+*.out
