@@ -26,7 +26,6 @@ This project implements a multi-client chat server using C++ and TCP sockets, wi
 - `README.md` - This file, containing details of the project.
 - `images/` - Screenshots of the running server and clients on separate hosts.
 - `Report.pdf` - Contains explanations, and additional functionalities.
-- `Demo.mp4` - Demo Video of the working of multi-client chat server.
 
 ## Compilation & Execution
 The below procedure can be followed after:
@@ -132,5 +131,5 @@ or
 ## Submission
 - All codes are included in a zip file and the directory too.
 - Report with explanations and images is attached.
-- Github link for the repository, report and the demo video.
+- Github link for the repository, report.
 
